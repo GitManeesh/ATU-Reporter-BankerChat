@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="Sprint1_OnceCycle"
+           tests="4"
+           failures="0"
+           errors="0"
+           skipped="0"
+           time="104.080">
+  <properties />
+  
+  
+            <testcase name="testClaimed" time="13.929" classname="com.BankerChat.testScript.Sprint1_FullCycle.TestExecute" />
+                <testcase name="testLogin" time="25.005" classname="com.BankerChat.testScript.Sprint1_FullCycle.TestExecute" />
+                <testcase name="testSignOut" time="43.552" classname="com.BankerChat.testScript.Sprint1_FullCycle.TestExecute" />
+                <testcase name="testUnclaimed" time="21.594" classname="com.BankerChat.testScript.Sprint1_FullCycle.TestExecute" />
+      
+</testsuite>
