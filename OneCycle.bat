@@ -1,6 +1,6 @@
 @echo off
 echo.
-call ant -buildfile "E:\BankerChat\Workspace\BankerChatWithATUReporter-new\build.xml" setClassPath Generate-Report
+call ant -buildfile "https://github.com/GitManeesh/ATU-Reporter-BankerChat.git\build.xml" setClassPath Generate-Report
 echo.
-start "" "E:\BankerChat\Workspace\BankerChatWithATUReporter-new\ATU Reporter\index.html"
+start "" "https://github.com/GitManeesh/ATU-Reporter-BankerChat.git\ATU Reporter\index.html"
 pause
